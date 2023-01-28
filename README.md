@@ -1,6 +1,6 @@
 # kooMessage-org-sdk
 华为云koomessage工具包
-[官方开发文档]([https://github.com/fayewon/LuckyExp](https://support.huaweicloud.com/api-KooMessage/CreatePubInfo.html))
+![官方开发文档]([https://github.com/fayewon/LuckyExp](https://support.huaweicloud.com/api-KooMessage/CreatePubInfo.html))
 # 简述
 &nbsp;&nbsp;&nbsp;*发送富文本短信* 
 # 配置
