@@ -52,7 +52,7 @@ public class KooMessageTest {
         ResponseBody<String> result = kooMessageActuator.request(new KooMessageService<String, SmartSmsPostTemplate>() {
                     @Override
                     public SmartSmsPostTemplate convertData() {
-                        CreateResolveTaskParam createResolveTaskParam = new CreateResolveTaskParam("15387053464");
+                        CreateResolveTaskParam createResolveTaskParam = new CreateResolveTaskParam("15387053XXX");
                         //createResolveTaskParam.setCustom_short_code("asdc24");
                         CreateResolveTaskParam[] array = new CreateResolveTaskParam[]{createResolveTaskParam};
                         SmsChannel smsChannel = new SmsChannel("8822082325917","15100556","XXXX","APP_NAME");
