@@ -81,5 +81,7 @@ public class KooMessageTest {
         }).execute().result();
         System.out.println("result:  "+result.getData().getMessage());
     }
+    @Test
+    ...
 }
 ```
